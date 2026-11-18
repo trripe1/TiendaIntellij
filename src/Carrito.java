@@ -6,7 +6,7 @@ import java.util.List;
  */
 public class Carrito {
 
-    private static final double IVA = 0.21;
+    private static final double IVA = 0.04;
 
     private final List<Producto> productos = new ArrayList<>();
     private final List<Integer> cantidades = new ArrayList<>();
